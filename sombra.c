@@ -43,5 +43,5 @@ int main(void) {
 			rawData[n] = rawData[n] ^ 0x17;
 			printf("%c", rawData[n]);
 		}
-		
+		printf("\n");
 }
